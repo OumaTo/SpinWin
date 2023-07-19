@@ -1,0 +1,1 @@
+web gunicorn SpinWin.wsgi:application --log-file -
